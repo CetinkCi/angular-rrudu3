@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+vvvvimport { Component } from '@angular/core';
 
 @Component({
   selector: 'my-app',
